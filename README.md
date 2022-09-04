@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Java](https://img.shields.io/badge/-java-05122a?logo=OpenJDK)
+
 <!--
 **BrunoDiorio/brunodiorio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
